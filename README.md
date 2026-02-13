@@ -7,7 +7,7 @@
 🇵🇱 Zaawansowany workflow n8n zaprojektowany do automatycznego, masowego badania słów kluczowych i generowania treści SEO. Identyfikuje frazy o wysokiej intencji zakupowej z wielu źródeł (Google Autocomplete, People Also Ask, DataForSEO) i wykorzystuje wyspecjalizowanych agentów AI do przeprowadzania researchu oraz pisania artykułów o długości ponad 4000 słów, zapisując je bezpośrednio w Google Workspace. <br /><br />
 **Business Case**: "Prowadzę agencję SEO i wdrożenie nowego klienta usługowego zazwyczaj zajmuje tygodnie ręcznej pracy przy samym planowaniu strategii treści. Muszę znaleźć to, czego ludzie naprawdę szukają, sprawdzić, czy konkurencja jest do przeskoczenia i napisać obszerne treści, które faktycznie dają wartość. Potrzebuję Agenta, w którym po prostu wpiszę 'Elektryk', a on automatycznie wyszuka 20 trendujących tematów, napisze wyczerpujący poradnik na 4000 słów dla każdego z nich i zorganizuje wszystko w arkuszu dla mojego zespołu."
 
-<img width="1609" height="295" alt="Zrzut ekranu 2026-01-26 o 20 35 08" src="https://github.com/user-attachments/assets/f0c507da-bcb7-4fe4-a10f-316f58b1a1ae" />
+<img width="1639" height="374" alt="Zrzut ekranu 2026-02-13 o 15 27 08" src="https://github.com/user-attachments/assets/32e74584-393d-408a-a895-0515370c9bc9" />
 
 ## **🇺🇸 English Version** ##
 ### 🌟 Overview
